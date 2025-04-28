@@ -54,7 +54,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
 # Load the dataset
-data = pd.read_csv("https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-ML240EN-SkillsNetwork/labs/data/CarPrice_Assignment.csv")
+data = pd.read_csv("CarPrice_Assignment.csv")
 
 # Data preprocessing
 # Dropping unnecessary columns and handling categorical variables
@@ -99,7 +99,8 @@ plt.show()
 ```
 
 ## Output:
-<img width="801" alt="Screenshot 2024-10-06 at 8 53 33 PM" src="https://github.com/user-attachments/assets/1a84f7be-ffb0-4073-b864-39555861f443">
+![image](https://github.com/user-attachments/assets/b06a3e14-280e-48df-bc33-610510f49771)
+![image](https://github.com/user-attachments/assets/a85ee181-c487-4748-b0cb-a05375fc50da)
 
 
 ## Result:
